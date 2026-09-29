@@ -5,8 +5,9 @@ description: Neue Veröffentlichungen von Datenschutzaufsicht, DSK, EDSA, BSI, E
 
 # Aufsichts-Monitoring mit Normlotse
 
-Normlotse liest die Veröffentlichungen von 15 öffentlichen Quellen: Datenschutzaufsichten des Bundes und der
-Länder, die Datenschutzkonferenz, den EDSA, das BSI, die EU-Kommission sowie BGH, BAG und BVerfG. Jede
+Normlotse liest die Veröffentlichungen von 15 öffentlichen Quellen: die Datenschutzaufsicht des Bundes und von
+sieben Ländern, die Datenschutzkonferenz, den EDSA, das BSI, die EU-Kommission sowie BGH, BAG und BVerfG.
+Welche Länder gelesen werden, nennt der Monatsnachweis. Jede
 Veröffentlichung ist gegen einen Katalog von 15 Ja-Nein-Merkmalen typisiert. Beantworte Fragen nach neuen
 Veröffentlichungen mit den Werkzeugen des Normlotse-Servers, nicht aus dem Gedächtnis.
 

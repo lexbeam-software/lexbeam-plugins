@@ -1,0 +1,50 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "installflow",
+  "version": "1.0.0",
+  "description": "Was Netzbetreiber in NRW von Elektroinstallateuren verlangen: TAB NS, eigene Ergänzungen, Anmeldeportal, Formulare und § 14a EnWG, mit Quelle und Stand, soweit Dokumente vorliegen.",
+  "author": {
+    "name": "Lexbeam Software",
+    "email": "info@lexbeam.com",
+    "url": "https://lexbeam.com"
+  },
+  "homepage": "https://installflow.de",
+  "repository": "https://github.com/lexbeam-software/lexbeam-plugins",
+  "license": "Apache-2.0",
+  "keywords": [
+    "netzbetreiber",
+    "netzanschluss",
+    "tab-ns",
+    "wallbox",
+    "photovoltaik",
+    "wärmepumpe",
+    "14a-enwg",
+    "elektroinstallateur",
+    "nrw"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Installflow",
+        "shortDescription": "Netzbetreiber-Regeln in NRW für Wallbox, PV, Wärmepumpe, Speicher und Hausanschluss, mit Quelle und Stand.",
+        "longDescription": "Für Elektroinstallateure, Planer und Bauherren in Nordrhein-Westfalen. Installflow findet einen Verteilnetzbetreiber nach Namen, Sitz oder MaStR-Nummer und zeigt, was er verlangt: die TAB NS mit Stand, seine eigenen Ergänzungen über den BDEW-Mustertext hinaus, das Anmeldeportal und die Formulare sowie die Seite zu § 14a EnWG. Jede Angabe trägt den Link zur Quelle und das Prüfdatum; was die Dokumente nicht hergeben, heißt „nicht erkennbar“. Erfasst sind alle 113 Verteilnetzbetreiber in NRW, Regeln liegen für 102 vor (Stand 25.09.2026). Mit einem Pro-Schlüssel entsteht die Checkliste für ein Vorhaben. Keine Rechtsberatung, keine Gewähr. Maßgeblich sind die Dokumente des Netzbetreibers.",
+        "developerName": "Lexbeam Software",
+        "category": "Productivity",
+        "capabilities": [
+          "Read"
+        ],
+        "websiteURL": "https://installflow.de",
+        "privacyPolicyURL": "https://mcp.installflow.de/privacy",
+        "termsOfServiceURL": "https://www.lexbeam.com/agb",
+        "defaultPrompt": [
+          "Was verlangt die Dortmunder Netz GmbH für die Anmeldung einer Wallbox?",
+          "Welche eigenen Ergänzungen zur TAB NS hat die Stadtnetze Münster GmbH?",
+          "Wo finde ich bei der Bielefelder Netz GmbH die Seite zu § 14a EnWG?"
+        ],
+        "brandColor": "#E34432",
+        "logo": "./assets/logo.png",
+        "composerIcon": "./assets/icon.png"
+      }
+    }
+  }
+}

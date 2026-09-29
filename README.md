@@ -5,7 +5,7 @@ hosted MCP server that answers from typed, sourced data. Each folder is one plug
 
 | Plugin | For | Hosted MCP server |
 |---|---|---|
-| [Installflow](installflow/) | Electricians and planners in North Rhine-Westphalia: what each of the 113 distribution grid operators requires for a wallbox, PV system, heat pump, battery storage or house connection | https://mcp.installflow.de/mcp |
+| [Installflow](installflow/) | Electricians and planners in North Rhine-Westphalia: what the distribution grid operators require for a wallbox, PV system, heat pump, battery storage or house connection (all 113 listed, rules for 102) | https://mcp.installflow.de/mcp |
 | [azubiklar](azubiklar/) | Apprenticeship seekers and their advisers around Münster: Ausbildung listings typed for access attributes such as "Hauptschulabschluss reicht" | https://mcp.azubiklar.de/mcp |
 | [Normlotse](normlotse/) | External data protection, information security and AI officers: new publications of German and EU regulators and courts, matched to client profiles, with a monthly proof of monitoring | https://mcp.normlotse.de/mcp |
 

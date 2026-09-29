@@ -5,14 +5,19 @@ description: Anforderungen der Stromnetzbetreiber in Nordrhein-Westfalen mit Ins
 
 # Netzbetreiber-Regeln mit Installflow
 
-Installflow kennt die öffentlich veröffentlichten Anforderungen der 113 Verteilnetzbetreiber in
-Nordrhein-Westfalen. Beantworte solche Fragen mit den Werkzeugen des Installflow-Servers, nicht aus dem
-Gedächtnis: Die Regeln unterscheiden sich von Netzbetreiber zu Netzbetreiber und ändern sich.
+Installflow erfasst alle 113 Verteilnetzbetreiber in Nordrhein-Westfalen und ihre veröffentlichten
+Anforderungen; für die meisten liegen Regeln vor, `installflow_coverage` nennt den Stand. Beantworte solche
+Fragen mit den Werkzeugen des Installflow-Servers, nicht aus dem Gedächtnis: Die Regeln unterscheiden sich von
+Netzbetreiber zu Netzbetreiber und ändern sich.
 
 ## Vorgehen
 
-1. Netzbetreiber bestimmen: `installflow_find_operator` mit Ort, Namen oder MaStR-Nummer. Liefert die Suche
-   mehrere Kandidaten, nenne sie und frage nach Straße oder Ortsteil. Rate nie, welches Netz zuständig ist.
+1. Netzbetreiber bestimmen: `installflow_find_operator` sucht nach Namen, nach dem Sitz laut
+   Marktstammdatenregister oder nach der MaStR-Nummer. Ein Treffer über den Ort heißt nur, dass der
+   Netzbetreiber dort seinen Sitz hat; das Netz an einer bestimmten Adresse kann ein anderer betreiben. Welcher
+   Netzbetreiber zuständig ist, steht auf der Stromrechnung oder in den Unterlagen zum Netzanschluss. Nennt der
+   Nutzer nur einen Ort, frage danach und zeige die Treffer als Kandidaten, nicht als Antwort. Ohne Treffer sag
+   das und frage nach dem Namen oder der MaStR-Nummer. Rate nie, welches Netz zuständig ist.
 2. Regeln lesen: `installflow_operator_rules` mit der Kennung aus Schritt 1.
 3. Für ein konkretes Vorhaben liefert `installflow_checklist` die Checkliste. Erlaubte Vorhaben: `wallbox`,
    `pv`, `waermepumpe`, `speicher`, `hausanschluss`. Das ist ein Pro-Werkzeug, siehe unten.

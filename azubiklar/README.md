@@ -38,7 +38,9 @@ keinen Schlüssel. Für Pro nennt der Nutzer seinen Lizenzschlüssel im Gespräc
 - Der Server läuft bei Scaleway in Paris. Er speichert weder Argumente noch Ergebnisse, setzt keine Cookies und
   verfolgt niemanden. Im Arbeitsspeicher zählt er Anfragen je Adresse oder Schlüssel für eine Minute; sein
   Protokoll hält nur Starts und die Art eines Fehlers fest. Einzelheiten und Speicherdauern:
-  [Datenschutzerklärung](https://mcp.azubiklar.de/privacy).
+  [Datenschutzerklärung](https://mcp.azubiklar.de/privacy). Ob Scaleway als Betreiber der Plattform eigene
+  Zugriffsprotokolle mit IP-Adressen führt, haben wir bei Scaleway angefragt; die Datenschutzerklärung weist
+  diesen Punkt offen aus.
 - Sonst verlässt über das Plugin nichts Ihre Sitzung. Die Werkzeuge brauchen keine persönlichen Angaben der
   Suchenden. Die Stellendaten enthalten keine Ansprechpartner, E-Mail-Adressen oder Telefonnummern.
 - Quelle der Stellen: BUNDESAGENTUR FÜR ARBEIT (BA), Jobsuche, https://www.arbeitsagentur.de/jobsuche/. Jedes
