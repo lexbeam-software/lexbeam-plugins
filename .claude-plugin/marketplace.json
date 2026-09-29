@@ -1,0 +1,49 @@
+{
+  "name": "lexbeam-plugins",
+  "owner": {
+    "name": "Lexbeam Software",
+    "email": "info@lexbeam.com"
+  },
+  "description": "Lexbeam plugins for Claude: Installflow, azubiklar and Normlotse, each with a German skill and a hosted MCP connection.",
+  "plugins": [
+    {
+      "name": "installflow",
+      "source": "./installflow",
+      "description": "Was Netzbetreiber in NRW von Elektroinstallateuren verlangen: TAB NS, eigene Ergänzungen, Anmeldeportal, Formulare und § 14a EnWG, jeweils mit Quelle und Stand.",
+      "homepage": "https://installflow.de",
+      "repository": "https://github.com/lexbeam-software/lexbeam-plugins",
+      "license": "Apache-2.0",
+      "category": "productivity",
+      "author": {
+        "name": "Lexbeam Software",
+        "email": "info@lexbeam.com"
+      }
+    },
+    {
+      "name": "azubiklar",
+      "source": "./azubiklar",
+      "description": "Ausbildungsplätze rund um Münster nach Merkmalen wie „Hauptschulabschluss reicht“, mit Link zur Anzeige der Bundesagentur für Arbeit.",
+      "homepage": "https://azubiklar.de",
+      "repository": "https://github.com/lexbeam-software/lexbeam-plugins",
+      "license": "Apache-2.0",
+      "category": "education",
+      "author": {
+        "name": "Lexbeam Software",
+        "email": "info@lexbeam.com"
+      }
+    },
+    {
+      "name": "normlotse",
+      "source": "./normlotse",
+      "description": "Neue Veröffentlichungen von Datenschutzaufsicht, EDSA, BSI, EU-Kommission und Bundesgerichten je Mandantenprofil, mit Monatsnachweis.",
+      "homepage": "https://normlotse.de",
+      "repository": "https://github.com/lexbeam-software/lexbeam-plugins",
+      "license": "Apache-2.0",
+      "category": "compliance",
+      "author": {
+        "name": "Lexbeam Software",
+        "email": "info@lexbeam.com"
+      }
+    }
+  ]
+}

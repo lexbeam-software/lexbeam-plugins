@@ -1,0 +1,33 @@
+{
+  "name": "azubiklar",
+  "version": "1.0.0",
+  "description": "Ausbildungsplätze im Umkreis von 25 km um Münster, geordnet nach Merkmalen wie „Hauptschulabschluss reicht“, Probetag oder Praktikum und Hilfe beim Lernen, mit Link zur Anzeige der Bundesagentur für Arbeit.",
+  "author": {
+    "name": "Lexbeam Software",
+    "email": "info@lexbeam.com",
+    "url": "https://lexbeam.com"
+  },
+  "skills": "./skills/",
+  "mcpServers": "./.codex-plugin/mcp.json",
+  "interface": {
+    "displayName": "azubiklar",
+    "shortDescription": "Lehrstellen rund um Münster nach Merkmalen wie „Hauptschulabschluss reicht“ oder Probetag, mit Link zur Anzeige.",
+    "longDescription": "Für alle, die rund um Münster eine Ausbildung suchen oder dabei beraten: Bewerber, Eltern, Lehrkräfte, Berufsberatung und Jobcenter. azubiklar ordnet die Ausbildungsangebote aus der Jobsuche der Bundesagentur für Arbeit im Umkreis von 25 km um Münster nach zwölf Merkmalen, nach denen die Jobbörse selbst nicht filtern kann, etwa Hauptschulabschluss reicht, Probetag oder Praktikum, Hilfe beim Lernen oder Teilzeit möglich. Was eine Anzeige nicht klar sagt, heißt „unbekannt“, nie „nein“. Jede Stelle verlinkt die Originalanzeige auf arbeitsagentur.de. Angaben ohne Gewähr. Maßgeblich ist die Stellenanzeige des Betriebs.",
+    "developerName": "Lexbeam Software",
+    "category": "Productivity",
+    "capabilities": [
+      "Read"
+    ],
+    "websiteURL": "https://azubiklar.de",
+    "privacyPolicyURL": "https://mcp.azubiklar.de/privacy",
+    "termsOfServiceURL": "https://www.lexbeam.com/agb",
+    "defaultPrompt": [
+      "Welche Ausbildungsplätze im Einzelhandel rund um Münster gibt es, bei denen der Hauptschulabschluss reicht?",
+      "Zeig mir Ausbildungen in Münster mit Probetag oder Praktikum, die 2027 beginnen.",
+      "Welche Berufe haben rund um Münster die meisten freien Ausbildungsplätze?"
+    ],
+    "brandColor": "#541142",
+    "logo": "./assets/logo.png",
+    "composerIcon": "./assets/icon.png"
+  }
+}

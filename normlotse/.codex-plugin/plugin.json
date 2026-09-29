@@ -1,0 +1,33 @@
+{
+  "name": "normlotse",
+  "version": "1.0.0",
+  "description": "Neue Veröffentlichungen von Datenschutzaufsicht, EDSA, BSI, EU-Kommission und Bundesgerichten, je Mandantenprofil zugeordnet, mit Monatsnachweis für externe Datenschutz-, Informationssicherheits- und KI-Beauftragte.",
+  "author": {
+    "name": "Lexbeam Software",
+    "email": "info@lexbeam.com",
+    "url": "https://lexbeam.com"
+  },
+  "skills": "./skills/",
+  "mcpServers": "./.codex-plugin/mcp.json",
+  "interface": {
+    "displayName": "Normlotse",
+    "shortDescription": "Neue Veröffentlichungen von Aufsicht, EDSA, BSI und Gerichten je Mandantenprofil, mit Monatsnachweis.",
+    "longDescription": "Für externe Datenschutzbeauftragte, Informationssicherheitsbeauftragte und KI-Beauftragte. Normlotse liest die Veröffentlichungen von 15 öffentlichen Quellen, darunter die Datenschutzaufsichten, die Datenschutzkonferenz, den EDSA, das BSI, die EU-Kommission sowie BGH, BAG und BVerfG, und typisiert jede gegen 15 Merkmale wie Beschäftigtendaten, Videoüberwachung oder Künstliche Intelligenz. So zeigt es, welche Veröffentlichung welches Mandantenprofil betrifft, und erstellt den Monatsnachweis über das Monitoring. Ein Profil ist eine Themenliste ohne Namen. Keine Rechtsberatung. Normlotse liefert Quellen, Regeln und Wahrscheinlichkeiten; die Bewertung trifft die beauftragte Fachperson.",
+    "developerName": "Lexbeam Software",
+    "category": "Productivity",
+    "capabilities": [
+      "Read"
+    ],
+    "websiteURL": "https://normlotse.de",
+    "privacyPolicyURL": "https://mcp.normlotse.de/privacy",
+    "termsOfServiceURL": "https://www.lexbeam.com/agb",
+    "defaultPrompt": [
+      "Was haben die Datenschutzaufsichten in den letzten 30 Tagen zu Künstlicher Intelligenz veröffentlicht?",
+      "Welche Merkmale kennt Normlotse und wie baue ich daraus ein Mandantenprofil?",
+      "Gibt es neue Veröffentlichungen zu Beschäftigtendaten oder Videoüberwachung?"
+    ],
+    "brandColor": "#07111F",
+    "logo": "./assets/logo.png",
+    "composerIcon": "./assets/icon.png"
+  }
+}

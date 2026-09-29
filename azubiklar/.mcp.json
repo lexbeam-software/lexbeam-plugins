@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "azubiklar": {
+      "type": "http",
+      "url": "https://mcp.azubiklar.de/mcp"
+    }
+  }
+}

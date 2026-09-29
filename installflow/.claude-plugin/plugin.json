@@ -1,0 +1,24 @@
+{
+  "name": "installflow",
+  "displayName": "Installflow",
+  "version": "1.0.0",
+  "description": "Was Netzbetreiber in NRW von Elektroinstallateuren verlangen: TAB NS, eigene Ergänzungen, Anmeldeportal, Formulare und § 14a EnWG für 113 Verteilnetzbetreiber, jeweils mit Quelle und Stand.",
+  "author": {
+    "name": "Lexbeam Software",
+    "url": "https://lexbeam.com"
+  },
+  "homepage": "https://installflow.de",
+  "repository": "https://github.com/lexbeam-software/lexbeam-plugins",
+  "license": "Apache-2.0",
+  "keywords": [
+    "netzbetreiber",
+    "netzanschluss",
+    "tab-ns",
+    "wallbox",
+    "photovoltaik",
+    "wärmepumpe",
+    "14a-enwg",
+    "elektroinstallateur",
+    "nrw"
+  ]
+}
