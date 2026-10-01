@@ -12,14 +12,11 @@ hosted MCP server that answers from typed, sourced data. Each folder is one plug
 The servers need no login. Their basic tools are free; the tools marked Pro take a licence key that the user
 states in the conversation. Answers are in German.
 
-## Install in Claude Code
+## Install
 
-```bash
-claude plugin marketplace add lexbeam-software/lexbeam-plugins
-claude plugin install installflow@lexbeam-plugins
-```
-
-Replace `installflow` with `azubiklar` or `normlotse` for the other plugins.
+Once listed, the plugins appear in Claude's directory under Customize. Until then, add this repository as a
+marketplace: in Claude, open Customize, then Plugins, choose Add marketplace and enter
+`lexbeam-software/lexbeam-plugins`.
 
 ## Data and privacy
 
