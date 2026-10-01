@@ -12,7 +12,7 @@ Werkzeugen des azubiklar-Servers und erfinde keine Stellen.
 ## Vorgehen
 
 1. Rufe zuerst `azubiklar_about` auf. Es nennt die genauen Merkmals-Schlüssel (zum Beispiel
-   `hauptschule_reicht` oder `probetag_praktikum`), den Datenstand und die gemessene Genauigkeit.
+   `hauptschule_reicht` oder `probetag_praktikum`), den Datenstand und die gemessene Übereinstimmung mit anderen KI-Modellen; das ist keine bestätigte Richtigkeit.
 2. Suche mit `azubiklar_search` nach Beruf, Ort, Entfernung, Ausbildungsbeginn und Merkmalen; es liefert bis zu
    20 Treffer. `azubiklar_berufe` zeigt, welche Berufe es gibt und wie viele Stellen jeweils.
 3. Eine einzelne Stelle liefert `azubiklar_listing` mit ihrer Referenznummer.
@@ -21,6 +21,7 @@ Werkzeugen des azubiklar-Servers und erfinde keine Stellen.
 
 ## Antworten
 
+- `truncated: true` heißt: Es gibt mehr Treffer als angezeigt. Grenze die Suche ein oder nutze mit Pro `azubiklar_export`.
 - Schreibe in einfachen Worten und kurzen Sätzen.
 - „unbekannt“ heißt: Die Anzeige sagt es nicht. Mache daraus nie ein Nein und nie ein Ja. Ein Merkmal-Filter
   zeigt nur Stellen, bei denen das Merkmal bestätigt ist.

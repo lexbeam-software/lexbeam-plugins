@@ -20,7 +20,7 @@ Jobcentern.
 | `azubiklar_search` | frei | Stellen nach Beruf, Ort, Entfernung, Beginn und Merkmalen, bis zu 20 Treffer |
 | `azubiklar_listing` | frei | eine Stelle mit allen Merkmalen und dem Link zur Anzeige |
 | `azubiklar_berufe` | frei | alle Berufe mit der Zahl ihrer Stellen |
-| `azubiklar_about` | frei | Abdeckung, Datenstand, Merkmale in einfachen Worten und gemessene Genauigkeit |
+| `azubiklar_about` | frei | Abdeckung, Datenstand, Merkmale in einfachen Worten und Übereinstimmung mit anderen KI-Modellen (keine bestätigte Richtigkeit) |
 | `azubiklar_export` | Pro | alle Treffer als Markdown und CSV, etwa für eine Beratungsstelle |
 | `azubiklar_stats` | Pro | Anteile nach Beruf oder Ort, etwa wie oft der Hauptschulabschluss reicht |
 

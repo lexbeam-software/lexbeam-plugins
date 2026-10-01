@@ -20,7 +20,7 @@ Das Plugin bringt eine Anleitung für Claude (Skill) und die Verbindung zum Norm
 | `normlotse_features` | frei | die 15 Merkmale mit Abgrenzung, gemessener Übereinstimmung und Checklisten-Schlüsseln |
 | `normlotse_latest` | frei | typisierte Veröffentlichungen, eine Woche verzögert |
 | `normlotse_for_profile` | Pro | aktuelle Treffer ohne Verzögerung für ein Mandantenprofil |
-| `normlotse_monitoring_proof` | Pro | der Monatsnachweis: geprüfte Quellen, geprüfte Veröffentlichungen, Treffer, Methode, Messung |
+| `normlotse_monitoring_proof` | Pro | der Monatsnachweis: Quellen mit ihren Prüfläufen, automatisch erfasste und typisierte Veröffentlichungen, Treffer, Methode, Messung |
 
 Ein Mandantenprofil ist eine Checkliste von Themen, zum Beispiel Beschäftigtendaten und Videoüberwachung. Es
 enthält keine Namen. Die freien Werkzeuge brauchen keinen Schlüssel. Für Pro nennt der Nutzer seinen

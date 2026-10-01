@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "azubiklar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ausbildungsplätze im Umkreis von 25 km um Münster, geordnet nach Merkmalen wie „Hauptschulabschluss reicht“, Probetag oder Praktikum und Hilfe beim Lernen, mit Link zur Anzeige der Bundesagentur für Arbeit.",
   "author": {
     "name": "Lexbeam Software",

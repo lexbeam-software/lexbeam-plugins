@@ -21,7 +21,7 @@ Unterlagen zum Netzanschluss.
 |---|---|---|
 | `installflow_find_operator` | frei | einen Netzbetreiber nach Namen, Sitz oder MaStR-Nummer finden |
 | `installflow_operator_rules` | frei | die Regeln eines Netzbetreibers mit Quelle und Datum |
-| `installflow_coverage` | frei | Abdeckung, Datenstand und gemessene Genauigkeit |
+| `installflow_coverage` | frei | Abdeckung, Datenstand und Übereinstimmung mit der Modelljury (keine bestätigte Richtigkeit) |
 | `installflow_checklist` | Pro | die Checkliste für ein Vorhaben bei einem Netzbetreiber |
 | `installflow_changes` | Pro | Änderungen zwischen zwei Datenständen seit einem Datum |
 | `installflow_compare` | Datenlizenz | eine Vergleichstabelle über Netzbetreiber, als Markdown und CSV |

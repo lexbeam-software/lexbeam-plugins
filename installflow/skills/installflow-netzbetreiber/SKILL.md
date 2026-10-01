@@ -26,6 +26,7 @@ Netzbetreiber zu Netzbetreiber und ändern sich.
 
 ## Antworten
 
+- `not_required` heißt: Merkmal in den Dokumenten nicht erkannt oder nur Mustertext gelesen. Das ist nie eine Befreiung; lies `interpretation` und `note`.
 - Nenne zu jeder Anforderung die Quelle als Link und den Stand oder das Prüfdatum aus dem Ergebnis.
 - „nicht erkennbar“ bleibt „nicht erkennbar“. Mache daraus weder eine Zusage noch ein Nein. Verweise dann auf
   das Dokument oder die Netzanschluss-Stelle des Netzbetreibers.

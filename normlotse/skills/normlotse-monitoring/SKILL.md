@@ -31,6 +31,7 @@ Veröffentlichungen mit den Werkzeugen des Normlotse-Servers, nicht aus dem Ged�
 
 ## Antworten
 
+- Der Monatsnachweis belegt automatische Erfassung und Typisierung, keine menschliche Sichtung.
 - Nenne zu jedem Treffer Quelle, Datum, Link und die ausgelösten Merkmale mit ihrer Wahrscheinlichkeit.
 - Treffer „zur Durchsicht“ sind unsicher. Kennzeichne sie so.
 - Eine Veröffentlichung, deren Typisierung fehlgeschlagen ist, gilt als unbekannt, nie als geprüft ohne Treffer.
