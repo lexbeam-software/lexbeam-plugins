@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "installflow": {
+      "type": "http",
+      "url": "https://mcp.installflow.de/mcp"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "normlotse",
+  "displayName": "Normlotse",
+  "version": "1.0.0",
+  "description": "Neue Veröffentlichungen von Datenschutzaufsicht, EDSA, BSI, EU-Kommission und Bundesgerichten, je Mandantenprofil zugeordnet, mit Monatsnachweis für externe Datenschutz-, Informationssicherheits- und KI-Beauftragte.",
+  "author": {
+    "name": "Lexbeam Software",
+    "url": "https://lexbeam.com"
+  },
+  "homepage": "https://normlotse.de",
+  "repository": "https://github.com/lexbeam-software/lexbeam-plugins",
+  "license": "Apache-2.0",
+  "keywords": [
+    "datenschutzbeauftragter",
+    "dsgvo",
+    "bdsg",
+    "nis2",
+    "ai-act",
+    "aufsichtsbehörde",
+    "rechtsprechung",
+    "monitoring",
+    "informationssicherheit"
+  ]
+}
