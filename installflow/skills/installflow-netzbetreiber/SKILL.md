@@ -1,6 +1,6 @@
 ---
 name: installflow-netzbetreiber
-description: Anforderungen der Stromnetzbetreiber in Nordrhein-Westfalen mit Installflow nachschlagen. Verwenden, wenn ein Elektroinstallateur, Planer oder Bauherr wissen will, welcher Verteilnetzbetreiber zuständig ist und was er für Wallbox, PV-Anlage, Wärmepumpe, Speicher oder Hausanschluss verlangt, etwa TAB NS, eigene Ergänzungen, Anmeldeportal, Formulare, Zählerplatz, Inbetriebsetzung oder § 14a EnWG.
+description: Anforderungen der Stromnetzbetreiber in Nordrhein-Westfalen mit Installflow nachschlagen. Verwenden, wenn ein Elektroinstallateur, Planer oder Bauherr wissen will, was ein Verteilnetzbetreiber für Wallbox, PV-Anlage, Wärmepumpe, Speicher oder Hausanschluss verlangt, etwa TAB NS, eigene Ergänzungen, Anmeldeportal, Formulare, Zählerplatz, Inbetriebsetzung oder § 14a EnWG, oder wenn er einen Netzbetreiber nach Namen, Sitz oder MaStR-Nummer sucht.
 ---
 
 # Netzbetreiber-Regeln mit Installflow
