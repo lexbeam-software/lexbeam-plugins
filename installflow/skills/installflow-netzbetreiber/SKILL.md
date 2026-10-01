@@ -26,12 +26,12 @@ Netzbetreiber zu Netzbetreiber und ändern sich.
 
 ## Antworten
 
-- `not_required` heißt: Merkmal in den Dokumenten nicht erkannt oder nur Mustertext gelesen. Das ist nie eine Befreiung; lies `interpretation` und `note`.
+- `not_required` heißt: Merkmal in den Dokumenten nicht erkannt, nur Mustertext gelesen oder keine eigenen Dokumente vorhanden. Das ist nie eine Befreiung; lies `interpretation` und `note`.
 - Nenne zu jeder Anforderung die Quelle als Link und den Stand oder das Prüfdatum aus dem Ergebnis.
 - „nicht erkennbar“ bleibt „nicht erkennbar“. Mache daraus weder eine Zusage noch ein Nein. Verweise dann auf
   das Dokument oder die Netzanschluss-Stelle des Netzbetreibers.
-- Punkte mit der Markierung `generic` stammen aus dem BDEW-Mustertext, nicht aus einem eigenen Dokument des
-  Netzbetreibers. Sag das dazu.
+- Punkte mit der Markierung `generic` sind nicht in eigenen Dokumenten des Netzbetreibers belegt: Die Antwort
+  stammt aus dem unveränderten BDEW-Mustertext oder es liegen keine eigenen Dokumente vor. Sag das dazu.
 - Außerhalb von Nordrhein-Westfalen hat Installflow keine Daten. Sag das offen, statt zu schätzen.
 - Schließe jede Antwort mit: „Keine Rechtsberatung, keine Gewähr. Maßgeblich sind die Dokumente des
   Netzbetreibers.“
