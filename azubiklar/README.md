@@ -11,6 +11,8 @@ Das Plugin bringt eine Anleitung für Claude (Skill) und die Verbindung zum azub
 rund um Münster eine Ausbildung suchen oder dabei beraten: Bewerbern, Eltern, Lehrkräften, der Berufsberatung und
 Jobcentern.
 
+Auf deinem Rechner führt das Plugin keinen Code aus: Die Anleitung ist Text, die Abfragen beantwortet der azubiklar-Server in Paris.
+
 > Angaben ohne Gewähr. Maßgeblich ist die Stellenanzeige des Betriebs.
 
 ## Werkzeuge
@@ -52,7 +54,7 @@ azubiklar finds apprenticeship (Ausbildung) listings within 25 km of Münster, G
 attributes the Federal Employment Agency's job portal cannot filter by, such as "a lower secondary school
 certificate is enough", "trial day or internship" or "learning support". Every listing links to its original
 posting on arbeitsagentur.de. The plugin adds a German skill and the connection to the hosted azubiklar MCP
-server at https://mcp.azubiklar.de/mcp, which needs no login and stores no tool arguments. Four tools are free;
+server at https://mcp.azubiklar.de/mcp, which needs no login and stores no tool arguments. The plugin runs no code on your computer: the skill is text, and the hosted server in Paris answers the queries. Four tools are free;
 the export and the statistics need a licence key. Answers are in German.
 
 ## Lizenz

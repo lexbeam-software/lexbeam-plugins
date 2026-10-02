@@ -1,7 +1,7 @@
 {
   "name": "normlotse",
   "displayName": "Normlotse",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Neue Veröffentlichungen von Datenschutzaufsicht, EDSA, BSI, EU-Kommission und Bundesgerichten, je Mandantenprofil zugeordnet, mit Monatsnachweis für externe Datenschutz-, Informationssicherheits- und KI-Beauftragte.",
   "author": {
     "name": "Lexbeam Software",
@@ -11,6 +11,7 @@
   "privacyPolicyUrl": "https://mcp.normlotse.de/privacy",
   "documentationUrl": "https://mcp.normlotse.de/",
   "supportUrl": "https://github.com/lexbeam-software/lexbeam-plugins/issues",
+  "termsOfServiceUrl": "https://mcp.normlotse.de/terms",
   "repository": "https://github.com/lexbeam-software/lexbeam-plugins",
   "license": "Apache-2.0",
   "keywords": [

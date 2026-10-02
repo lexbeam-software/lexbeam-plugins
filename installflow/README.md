@@ -13,6 +13,8 @@ Pro-Schlüssel die Checkliste für ein Vorhaben zusammen: Wallbox, PV-Anlage, W�
 Hausanschluss. Welcher Netzbetreiber für eine Adresse zuständig ist, steht auf der Stromrechnung oder in den
 Unterlagen zum Netzanschluss.
 
+Auf Ihrem Rechner führt das Plugin keinen Code aus: Die Anleitung ist Text, die Abfragen beantwortet der Installflow-Server in Paris.
+
 > Keine Rechtsberatung, keine Gewähr. Maßgeblich sind die Dokumente des Netzbetreibers.
 
 ## Werkzeuge
@@ -54,7 +56,7 @@ rules (TAB NS), its own supplements, its registration portal and forms, and its 
 source link and a date. It lists all 113 distribution grid operators in the state and has rules for 102 of them
 (status 25.09.2026). The plugin adds a German
 skill and the connection to the hosted Installflow MCP server at https://mcp.installflow.de/mcp, which needs no
-login and stores no tool arguments. Three tools are free; the checklist and the change report need a licence
+login and stores no tool arguments. The plugin runs no code on your computer: the skill is text, and the hosted server in Paris answers the queries. Three tools are free; the checklist and the change report need a licence
 key. Answers are in German and are not legal advice.
 
 ## Lizenz

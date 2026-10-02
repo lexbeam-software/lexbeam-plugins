@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "normlotse",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Neue Veröffentlichungen von Datenschutzaufsicht, EDSA, BSI, EU-Kommission und Bundesgerichten, je Mandantenprofil zugeordnet, mit Monatsnachweis für externe Datenschutz-, Informationssicherheits- und KI-Beauftragte.",
   "author": {
     "name": "Lexbeam Software",
@@ -35,7 +35,7 @@
         ],
         "websiteURL": "https://normlotse.de",
         "privacyPolicyURL": "https://mcp.normlotse.de/privacy",
-        "termsOfServiceURL": "https://www.lexbeam.com/agb",
+        "termsOfServiceURL": "https://mcp.normlotse.de/terms",
         "defaultPrompt": [
           "Was haben die Datenschutzaufsichten in den letzten 30 Tagen zu Künstlicher Intelligenz veröffentlicht?",
           "Welche Merkmale kennt Normlotse und wie baue ich daraus ein Mandantenprofil?",

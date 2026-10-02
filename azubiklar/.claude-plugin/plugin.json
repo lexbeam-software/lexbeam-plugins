@@ -1,7 +1,7 @@
 {
   "name": "azubiklar",
   "displayName": "azubiklar",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Ausbildungsplätze im Umkreis von 25 km um Münster, geordnet nach Merkmalen wie „Hauptschulabschluss reicht“, Probetag oder Praktikum und Hilfe beim Lernen, mit Link zur Anzeige der Bundesagentur für Arbeit.",
   "author": {
     "name": "Lexbeam Software",
@@ -11,6 +11,7 @@
   "privacyPolicyUrl": "https://mcp.azubiklar.de/privacy",
   "documentationUrl": "https://mcp.azubiklar.de/",
   "supportUrl": "https://github.com/lexbeam-software/lexbeam-plugins/issues",
+  "termsOfServiceUrl": "https://mcp.azubiklar.de/terms",
   "repository": "https://github.com/lexbeam-software/lexbeam-plugins",
   "license": "Apache-2.0",
   "keywords": [

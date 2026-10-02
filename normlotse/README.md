@@ -10,6 +10,8 @@ Mandantenprofil betrifft, und kann ihr Monitoring monatlich nachweisen. Die öff
 
 Das Plugin bringt eine Anleitung für Claude (Skill) und die Verbindung zum Normlotse-Server.
 
+Auf Ihrem Rechner führt das Plugin keinen Code aus: Die Anleitung ist Text, die Abfragen beantwortet der Normlotse-Server in Paris.
+
 > Keine Rechtsberatung. Normlotse liefert Quellen, Regeln und Wahrscheinlichkeiten; die Bewertung trifft die
 > beauftragte Fachperson.
 
@@ -52,7 +54,7 @@ publications of 15 public sources (the federal and seven state data protection a
 the EU Commission and the federal courts), types each one against 15 yes/no features and shows which items concern which client
 profile, with a monthly proof of monitoring. The plugin adds a German skill and the connection to the hosted
 Normlotse MCP server at https://mcp.normlotse.de/mcp, which needs no login and stores no tool arguments or
-profiles. The catalogue and every item one week after publication are free; current matches per profile and the
+profiles. The plugin runs no code on your computer: the skill is text, and the hosted server in Paris answers the queries. The catalogue and every item one week after publication are free; current matches per profile and the
 monthly proof need a licence key. Not legal advice.
 
 ## Lizenz
