@@ -10,6 +10,7 @@
   "homepage": "https://normlotse.de",
   "privacyPolicyUrl": "https://mcp.normlotse.de/privacy",
   "documentationUrl": "https://mcp.normlotse.de/",
+  "supportUrl": "https://github.com/lexbeam-software/lexbeam-plugins/issues",
   "repository": "https://github.com/lexbeam-software/lexbeam-plugins",
   "license": "Apache-2.0",
   "keywords": [
