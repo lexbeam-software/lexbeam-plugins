@@ -1,13 +1,14 @@
 {
   "name": "installflow",
   "displayName": "Installflow",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Was Netzbetreiber in NRW von Elektroinstallateuren verlangen: TAB NS, eigene Ergänzungen, Anmeldeportal, Formulare und § 14a EnWG, mit Quelle und Stand, soweit Dokumente vorliegen.",
   "author": {
     "name": "Lexbeam Software",
     "url": "https://lexbeam.com"
   },
   "homepage": "https://installflow.de",
+  "icon": "./assets/logo.png",
   "privacyPolicyUrl": "https://mcp.installflow.de/privacy",
   "documentationUrl": "https://mcp.installflow.de/",
   "supportUrl": "https://github.com/lexbeam-software/lexbeam-plugins/issues",

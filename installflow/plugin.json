@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "installflow",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Was Netzbetreiber in NRW von Elektroinstallateuren verlangen: TAB NS, eigene Ergänzungen, Anmeldeportal, Formulare und § 14a EnWG, mit Quelle und Stand, soweit Dokumente vorliegen.",
   "author": {
     "name": "Lexbeam Software",
