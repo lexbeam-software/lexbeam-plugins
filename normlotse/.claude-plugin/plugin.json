@@ -8,6 +8,7 @@
     "url": "https://lexbeam.com"
   },
   "homepage": "https://normlotse.de",
+  "privacyPolicyUrl": "https://mcp.normlotse.de/privacy",
   "repository": "https://github.com/lexbeam-software/lexbeam-plugins",
   "license": "Apache-2.0",
   "keywords": [
