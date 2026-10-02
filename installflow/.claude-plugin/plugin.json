@@ -9,6 +9,7 @@
   },
   "homepage": "https://installflow.de",
   "privacyPolicyUrl": "https://mcp.installflow.de/privacy",
+  "documentationUrl": "https://mcp.installflow.de/",
   "repository": "https://github.com/lexbeam-software/lexbeam-plugins",
   "license": "Apache-2.0",
   "keywords": [

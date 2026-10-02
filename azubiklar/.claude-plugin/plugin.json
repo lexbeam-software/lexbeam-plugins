@@ -9,6 +9,7 @@
   },
   "homepage": "https://azubiklar.de",
   "privacyPolicyUrl": "https://mcp.azubiklar.de/privacy",
+  "documentationUrl": "https://mcp.azubiklar.de/",
   "repository": "https://github.com/lexbeam-software/lexbeam-plugins",
   "license": "Apache-2.0",
   "keywords": [
