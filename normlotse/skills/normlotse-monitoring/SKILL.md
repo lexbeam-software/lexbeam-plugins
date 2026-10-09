@@ -32,6 +32,10 @@ Veröffentlichungen mit den Werkzeugen des Normlotse-Servers, nicht aus dem Ged�
 ## Antworten
 
 - Der Monatsnachweis belegt automatische Erfassung und Typisierung, keine menschliche Sichtung.
+- Ist eine Veröffentlichung als geändert gekennzeichnet (`revised`), nenne das Datum: Ihr Text hat sich an derselben
+  Adresse nach der Erfassung geändert. Verweise für den aktuellen Wortlaut auf den Link.
+- Nennt der Monatsnachweis Grenzen der Abdeckung (Zeitraum der erneuten Prüfung, fehlgeschlagene Abrufe, nicht
+  gelesene Quellen), gib sie mit dem Nachweis weiter. Stelle den Nachweis nie als vollständige Beobachtung dar.
 - Nenne zu jedem Treffer Quelle, Datum, Link und die ausgelösten Merkmale mit ihrer Wahrscheinlichkeit.
 - Treffer „zur Durchsicht“ sind unsicher. Kennzeichne sie so.
 - Eine Veröffentlichung, deren Typisierung fehlgeschlagen ist, gilt als unbekannt, nie als geprüft ohne Treffer.
