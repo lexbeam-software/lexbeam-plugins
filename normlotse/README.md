@@ -25,8 +25,10 @@ Auf Ihrem Rechner führt das Plugin keinen Code aus: Die Anleitung ist Text, die
 | `normlotse_monitoring_proof` | Pro | der Monatsnachweis: Quellen mit ihren Prüfläufen, automatisch erfasste und typisierte Veröffentlichungen, Treffer, Methode, Messung |
 
 Ein Mandantenprofil ist eine Checkliste von Themen, zum Beispiel Beschäftigtendaten und Videoüberwachung. Es
-enthält keine Namen. Die freien Werkzeuge brauchen keinen Schlüssel. Für Pro nennt der Nutzer seinen
-Lizenzschlüssel im Gespräch und Claude übergibt ihn im Argument `licence_key`. Beschreibung des Servers:
+enthält keine Namen. Die freien Werkzeuge brauchen keinen Schlüssel. Für Pro meldet sich der Nutzer einmal an:
+Ruft Claude ein Pro-Werkzeug ohne Anmeldung auf, zeigt Claude eine Karte zum Verbinden; der Nutzer fügt seinen
+Lizenzschlüssel auf der Anmeldeseite von mcp.normlotse.de ein und der Aufruf läuft weiter. Der Schlüssel gehört nie
+ins Gespräch, kein Werkzeug nimmt ihn als Argument. Beschreibung des Servers:
 [mcp.normlotse.de](https://mcp.normlotse.de/).
 
 ## Daten und Datenschutz
