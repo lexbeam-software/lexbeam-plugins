@@ -48,8 +48,11 @@ Veröffentlichungen mit den Werkzeugen des Normlotse-Servers, nicht aus dem Ged�
 
 - Frei: `normlotse_features` und `normlotse_latest`.
 - Pro: `normlotse_for_profile` und `normlotse_monitoring_proof`.
-- Übergib einen Lizenzschlüssel nur, wenn der Nutzer ihn in diesem Gespräch genannt hat, im Argument
-  `licence_key`. Erfinde nie einen Schlüssel und wiederhole ihn nicht in deinen Antworten.
-- Meldet ein Pro-Werkzeug, dass der Schlüssel fehlt oder ungültig ist, gib die Meldung sachlich wieder und
+- Kein Werkzeug nimmt einen Lizenzschlüssel als Argument; Pro läuft über die Anmeldung. Rufst du ein
+  Pro-Werkzeug ohne Anmeldung auf, zeigt Claude eine Karte zum Verbinden; der Nutzer fügt dort seinen Schlüssel
+  einmal auf der Anmeldeseite von mcp.normlotse.de ein und der Aufruf läuft danach weiter. Bitte nie im Gespräch um
+  den Schlüssel, erfinde keinen und wiederhole ihn nicht, falls der Nutzer ihn nennt.
+- Meldet ein Pro-Werkzeug, dass die Anmeldung fehlt oder der Schlüssel ungültig, abgelaufen oder gesperrt ist, gib
+  die Meldung sachlich wieder und
   arbeite mit den freien Werkzeugen weiter. Wer mehr wissen will, findet die Beschreibung unter
   https://mcp.normlotse.de/.
